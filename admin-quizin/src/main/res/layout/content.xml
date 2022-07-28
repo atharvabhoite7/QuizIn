@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:background="@color/primary_quiz"
+        android:padding="12dp"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:text="Update Question ..."
+        android:textSize="24dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:layout_margin="10dp"
+        android:id="@+id/questionNew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Question"
+        android:textSize="18dp"
+        android:textColor="#000000"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/oA"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Option A"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/oB"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Option B"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/oC"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Option C"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/oD"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Option D"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+    <EditText
+        android:layout_marginLeft="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_marginRight="10dp"
+        android:id="@+id/answerNew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Answer"
+        android:textSize="18dp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:background="@color/primary_quiz"
+        android:layout_margin="10dp"
+        android:id="@+id/update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:textSize="18dp"
+        android:textColor="@color/white"
+        android:textStyle="bold"/>
+
+</LinearLayout>

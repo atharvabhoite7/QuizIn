@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="admin-quizin/src/main/res/drawable/custom_button.xml" value="0.1315" />
+        <entry key="admin-quizin/src/main/res/drawable/progress_background.xml" value="0.1315" />
+        <entry key="admin-quizin/src/main/res/layout/activity_question_details.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/activity_question_list.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/activity_questions.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/activity_score.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/activity_sign_in.xml" value="0.29583333333333334" />
+        <entry key="admin-quizin/src/main/res/layout/activity_splash.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/content.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/gradient.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/layout_test.xml" value="0.15520833333333334" />
+        <entry key="admin-quizin/src/main/res/layout/loading_progressbar.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/question.xml" value="0.3098958333333333" />
+        <entry key="admin-quizin/src/main/res/layout/score.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.31145833333333334" />
+        <entry key="app/src/main/res/drawable/empty_bac.xml" value="0.22962962962962963" />
+        <entry key="app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.22592592592592592" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_outline_24.xml" value="0.22592592592592592" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.24259259259259258" />
+        <entry key="app/src/main/res/drawable/next_btn_shape.xml" value="0.22962962962962963" />
+        <entry key="app/src/main/res/drawable/share_shape.xml" value="0.24259259259259258" />
+        <entry key="app/src/main/res/drawable/tmout_btn_shape.xml" value="0.22962962962962963" />
+        <entry key="app/src/main/res/layout/activity_dashboard.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_score.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/activity_signin.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_won.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/login_activity.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/signin_activity.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/signout_activity.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/time_out_dialog.xml" value="0.375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

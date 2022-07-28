@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.sasank.roundedhorizontalprogress:roundedhorizontalprogress:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/f5407d36100ae905ec0d27d2d0bfaf9d/transformed/jetified-roundedhorizontalprogress-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f5407d36100ae905ec0d27d2d0bfaf9d/transformed/jetified-roundedhorizontalprogress-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/f5407d36100ae905ec0d27d2d0bfaf9d/transformed/jetified-roundedhorizontalprogress-1.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cdbf1757c5e9bb839f6a8a8909406821/transformed/jetified-roundedhorizontalprogress-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cdbf1757c5e9bb839f6a8a8909406821/transformed/jetified-roundedhorizontalprogress-1.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cdbf1757c5e9bb839f6a8a8909406821/transformed/jetified-roundedhorizontalprogress-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2f367eca7ff3bd5ebabf9dea98c9eead/transformed/jetified-roundedhorizontalprogress-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f367eca7ff3bd5ebabf9dea98c9eead/transformed/jetified-roundedhorizontalprogress-1.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2f367eca7ff3bd5ebabf9dea98c9eead/transformed/jetified-roundedhorizontalprogress-1.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sasank.roundedhorizontalprogress/roundedhorizontalprogress/1.0.1/b9d97f5087c279b6bb9cc8ce3f8f17e3ad82095b/roundedhorizontalprogress-1.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sasank.roundedhorizontalprogress/roundedhorizontalprogress/1.0.1/37aa330eb5ae8d7e5bb9a2f6e4cffaea9528c576/roundedhorizontalprogress-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

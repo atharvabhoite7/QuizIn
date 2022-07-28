@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "39921633395",
+    "firebase_url": "https://quizin-2af4a-default-rtdb.firebaseio.com",
+    "project_id": "quizin-2af4a",
+    "storage_bucket": "quizin-2af4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39921633395:android:435c877ee6a2b003208206",
+        "android_client_info": {
+          "package_name": "com.group5.admin_quizin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39921633395-0f57t5iuvkhfqqd7a0io8a95oarinnpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7SMVEh-OFSAdRq9RJ83YaBUH3Rcciv2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39921633395-0f57t5iuvkhfqqd7a0io8a95oarinnpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39921633395:android:d71c9f4171a20745208206",
+        "android_client_info": {
+          "package_name": "com.group5.quizin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39921633395-0f57t5iuvkhfqqd7a0io8a95oarinnpr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7SMVEh-OFSAdRq9RJ83YaBUH3Rcciv2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39921633395-0f57t5iuvkhfqqd7a0io8a95oarinnpr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
